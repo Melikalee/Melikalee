@@ -1,9 +1,9 @@
 <!-- Animated Header: light purple Gradient -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,4,18&height=220&section=header&text=Mandana%20AmeliMojarad&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
   
-  <!-- Subtitle using light purple  -->
-  <p>
-    <img src="https://img.shields.io/badge/Postdoctoral_Researcher-Tehran_University_of_Medical_Sciences-F28C48?style=for-the-badge&logoColor=white" alt="Role" />
+       <!-- Subtitle using light purple  -->
+      <p>
+      <img src="https://img.shields.io/badge/Postdoctoral_Researcher-Tehran_University_of_Medical_Sciences-F28C48?style=for-the-  badge&logoColor=white" alt="Role" />
   </p>
 </div>
 
@@ -34,9 +34,5 @@ I am a <strong>Postdoctoral Researcher</strong> at <strong>Tehran University of 
 
 <br/>
 
-<!-- Elegant Footer using Soft Sand and Pool Aqua -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Iran-F7EFE5?style=flat-square&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/Oncology_Research-8BD1C4?style=flat-square&logoColor=black" />
-</div>
-📧 melikaamelimojarad@gmail.com · 📍Tehran ,IRAN 
+
+                           📧 melikaamelimojarad@gmail.com · 📍Tehran ,IRAN 
