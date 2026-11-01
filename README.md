@@ -5,6 +5,7 @@
     Cancer Researcher & Medical Genetics Scientist
   </span>
 </p>
+![Cancer Researcher](https://img.shields.io/badge/Cancer%20Researcher%20%26%20Medical%20Genetics%20Scientist-e6d7f5?style=for-the-badge&labelColor=e6d7f5&color=e6d7f5)
 
 ### Research Focus
 
