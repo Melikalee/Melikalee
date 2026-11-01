@@ -1,5 +1,5 @@
 <!-- Animated Header: light purple Gradient -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,4,18&height=220&section=header&text=Melika %20AmeliMojarad&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,4,18&height=220&section=header&text=Melika%20AmeliMojarad&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
   
   <!-- Subtitle using Mango Yellow (Sunlit Orange) -->
   <p>
