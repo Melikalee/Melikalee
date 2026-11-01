@@ -1,16 +1,16 @@
-<!-- Animated Header: light purple Gradient -->
+<div align="center">
+  <!-- Animated Header: light purple Gradient -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,4,18&height=220&section=header&text=Melika%20AmeliMojarad&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
   
-  <!-- Subtitle using Mango Yellow (Sunlit Orange) -->
+  <!-- Subtitle using light purple-->
   <p>
     <img src="https://img.shields.io/badge/Postdoctoral_Researcher-Tehran_University_of_Medical_Sciences-F28C48?style=for-the-badge&logoColor=white" alt="Role" />
   </p>
-  <p style="color: #8BD1C4; font-size: 1.2em;">
+  <p style="color: #B19CD9; font-size: 1.2em;">
     <strong>Oncology</strong> • <strong>Genetics</strong> • <strong>Computational Biology</strong>
   </p>
 </div>
 
----
 
 ### 👋 About Me
 
