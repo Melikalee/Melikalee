@@ -1,11 +1,11 @@
-<h2 align="center">Melikalee</h2>
-
-<p align="center">
-  <span style="background-color:#e6d7f5; padding:6px 14px; border-radius:6px; font-size:16px;">
-    Cancer Researcher & Medical Genetics Scientist
-  </span>
-</p>
-![Cancer Researcher](https://img.shields.io/badge/Cancer%20Researcher%20%26%20Medical%20Genetics%20Scientist-e6d7f5?style=for-the-badge&labelColor=e6d7f5&color=e6d7f5)
+<table align="center">
+  <tr>
+    <td bgcolor="#e6d7f5" align="center">
+      <h2>Melikalee</h2>
+      <b>Cancer Researcher & Medical Genetics Scientist</b>
+    </td>
+  </tr>
+</table>
 
 ### Research Focus
 
